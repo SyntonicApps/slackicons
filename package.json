@@ -1,6 +1,6 @@
 {
   "name": "slackicons",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A module to generate images similar to Slack profile icons",
   "main": "./dist/index.js",
   "scripts": {

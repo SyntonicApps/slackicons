@@ -2,9 +2,9 @@
 
 A simple Node.js module for generating Slack-like profile icons
 
-![example 1](example1.png)
-![example 2](example2.png)
-![example 2](example3.png)
+![example 1](https://raw.githubusercontent.com/SyntonicApps/slackicons/master/example1.png)
+![example 2](https://raw.githubusercontent.com/SyntonicApps/slackicons/master/example2.png)
+![example 2](https://raw.githubusercontent.com/SyntonicApps/slackicons/master/example3.png)
 
 Install `npm install slackicons`
 
@@ -60,6 +60,6 @@ PRs with ESLint errors will not be accepted.
 
 Make sure to add any Mocha tests for new features!
 
-## [Changelog](CHANGELOG)
+## [Changelog](CHANGELOG.md)
 
 ## [License](LICENSE)
