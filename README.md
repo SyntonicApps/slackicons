@@ -31,8 +31,6 @@ slackicons.generate(options).then((buffer) => {
 });
 ```
 
-NOTE: A size of 500 or greater is recommended until some sort of anti aliasing is added.
-
 ## Building
 
 slackicons uses Babel to build. Install the latest version of [Node.js](https://nodejs.org/en/)
