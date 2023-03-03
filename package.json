@@ -33,7 +33,7 @@
   "dependencies": {
     "babel-polyfill": "^6.26.0",
     "bluebird": "^3.5.0",
-    "jimp": "^0.2.28",
+    "jimp": "^0.22.7",
     "randomcolor": "^0.5.3",
     "save-pixels": "^2.3.4",
     "seedrandom": "^2.4.3",
@@ -48,7 +48,7 @@
     "eslint": "^4.5.0",
     "eslint-config-google": "^0.9.1",
     "file-compare": "0.0.2",
-    "mocha": "^3.5.0",
-    "nyc": "^11.1.0"
+    "mocha": "^10.2.0",
+    "nyc": "^15.1.0"
   }
 }
